@@ -1,6 +1,6 @@
-/* THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
- *  A TUTOR OR CODE WRITTEN BY OTHER STUDENTS - Yichu Lin
- *  */
+/* Homework for CS450
+ * Fall 2015 - Yichu Lin
+ */
 
 #include "perfect.h"
 
