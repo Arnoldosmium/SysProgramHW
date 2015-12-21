@@ -1,12 +1,7 @@
-/* THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING
+/* Homework for CS450
 
-A TUTOR OR CODE WRITTEN BY OTHER STUDENTS - Yichu Lin
+Fall 2015 - Yichu Lin
 
-EXTRA CREDIT finished:
-	1. delete
-	2. print verbose
-	3. all functions (q,x,d) with multiple argument
-		=== But x didn't have the ability to extract all if no more args are provided.
 */
 
 #include <ar.h>
