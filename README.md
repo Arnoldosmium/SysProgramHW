@@ -1,7 +1,6 @@
 # System Programming Homeworks
-<div style="font-size:22px">
-Emory University Computer Science 450 HW
-
+<div style="font-size:22px;">
+Emory University Computer Science 450 HW<br />
 Fall 2015
 </div>
 
